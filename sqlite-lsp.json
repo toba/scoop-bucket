@@ -1,16 +1,16 @@
 {
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Language Server Protocol implementation for SQLite",
   "homepage": "https://github.com/toba/sqlite-lsp",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/toba/sqlite-lsp/releases/download/v0.2.0/sqlite-lsp_windows_amd64.zip",
-      "hash": "3efb8aca5e3733a5a865be87694cbd66b2323a8a5e73c41556d25537296555af"
+      "url": "https://github.com/toba/sqlite-lsp/releases/download/v0.3.0/sqlite-lsp_windows_amd64.zip",
+      "hash": "37cb4e02acbae002f42cd944d10b890afff2d52ebf5979240fdcb2767aeb60cc"
     },
     "arm64": {
-      "url": "https://github.com/toba/sqlite-lsp/releases/download/v0.2.0/sqlite-lsp_windows_arm64.zip",
-      "hash": "3058f9f9b9535bd4f604b652530a9b46262e9d8b96924ff998cb41bd652e08e8"
+      "url": "https://github.com/toba/sqlite-lsp/releases/download/v0.3.0/sqlite-lsp_windows_arm64.zip",
+      "hash": "671f8d760f91a572324b292f2528d59f89cfa463c26da4a2d666afb0747c2272"
     }
   },
   "bin": [
