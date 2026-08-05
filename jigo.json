@@ -1,31 +1,31 @@
 {
-  "version": "3.0.0",
-  "description": "Multi-tool CLI for issue tracking, citations, commits, and distribution",
-  "homepage": "https://github.com/toba/jig",
+  "version": "3.0.2",
+  "description": "Multi-tool CLI for citations, commits, Claude Code guard, and distribution",
+  "homepage": "https://github.com/toba/jig-go",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/toba/jig/releases/download/v3.0.0/jigo_windows_amd64.zip",
-      "hash": "a03d434c33c44f33bf2d8ff91194d5925c69187dfcc881d9ae2fdcad77319f71"
+      "url": "https://github.com/toba/jig-go/releases/download/v3.0.2/jigo_windows_amd64.zip",
+      "hash": "0d5ac921d1ba5d6b41c04725674f0db5a0d5fa381ef92e0c56cf804f58f68c89"
     },
     "arm64": {
-      "url": "https://github.com/toba/jig/releases/download/v3.0.0/jigo_windows_arm64.zip",
-      "hash": "9a3c6c7bf3d43fcd1862ab40de2a0bb73eff810a74d86a34530189c2daeea3bc"
+      "url": "https://github.com/toba/jig-go/releases/download/v3.0.2/jigo_windows_arm64.zip",
+      "hash": "2f88473840f460869b888cc34f23a229cac03c9aa4a5f0d258df9509314aa8b7"
     }
   },
   "bin": [
     "jigo.exe"
   ],
   "checkver": {
-    "github": "https://github.com/toba/jig"
+    "github": "https://github.com/toba/jig-go"
   },
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://github.com/toba/jig/releases/download/v$version/jigo_windows_amd64.zip"
+        "url": "https://github.com/toba/jig-go/releases/download/v$version/jigo_windows_amd64.zip"
       },
       "arm64": {
-        "url": "https://github.com/toba/jig/releases/download/v$version/jigo_windows_arm64.zip"
+        "url": "https://github.com/toba/jig-go/releases/download/v$version/jigo_windows_arm64.zip"
       }
     }
   }
