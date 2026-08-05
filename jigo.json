@@ -1,16 +1,16 @@
 {
-  "version": "3.0.2",
+  "version": "4.0.0",
   "description": "Multi-tool CLI for citations, commits, Claude Code guard, and distribution",
   "homepage": "https://github.com/toba/jig-go",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/toba/jig-go/releases/download/v3.0.2/jigo_windows_amd64.zip",
-      "hash": "0d5ac921d1ba5d6b41c04725674f0db5a0d5fa381ef92e0c56cf804f58f68c89"
+      "url": "https://github.com/toba/jig-go/releases/download/v4.0.0/jigo_windows_amd64.zip",
+      "hash": "9d22e048700a7a2c7ffdff4fcdd30cac3c7f738018d5372eb1aad4a885004a6b"
     },
     "arm64": {
-      "url": "https://github.com/toba/jig-go/releases/download/v3.0.2/jigo_windows_arm64.zip",
-      "hash": "2f88473840f460869b888cc34f23a229cac03c9aa4a5f0d258df9509314aa8b7"
+      "url": "https://github.com/toba/jig-go/releases/download/v4.0.0/jigo_windows_arm64.zip",
+      "hash": "1e494e50ba5944122f58822bd220fe2d5bb78094747cd357ed52ab4e57344e82"
     }
   },
   "bin": [
